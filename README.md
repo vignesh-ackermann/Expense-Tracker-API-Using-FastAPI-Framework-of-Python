@@ -1,4 +1,4 @@
-Expense Tracker API
+📌 Expense Tracker API
 
 A robust and scalable Expense Tracker REST API built using the FastAPI framework in Python.
 This project enables users to manage expenses efficiently, generate category-based summaries, and export expense reports in PDF and Excel formats.
